@@ -1,0 +1,57 @@
+name: mallie.dicki
+description: implementation
+version: 0.38.982
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: malliedicki
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:07:26'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:07:26'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:07:26.16809Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '507228049'
+  createdAt: '2024-11-22T23:07:26.16809Z'
+  type: plibMaven
+projectDependencies:
+  '208':
+    projectUID: 208
+    projectName: rebecka.kirlin
+    repositoryPath: gitUri=http://gitserver:3000/dev_tNO0MW5s_team_329/dev_tNO0MW5s_project_208.git&subPath=
+    version: rebecka.kirlin/0.74.61
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 23:07:23'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
